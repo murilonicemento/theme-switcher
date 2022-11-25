@@ -3,6 +3,7 @@ Projeto criado através da plataforma Rocketseat - Trilha Discover
 
 ## Deploy da aplicação
 
+https://theme-switcher-sandy.vercel.app/
 
 ## Tecnologias utilizadas
 + HTML5
